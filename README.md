@@ -4,7 +4,7 @@ I'm a web developer based in the North East, UK. I have a range of experience in
 
 ### Need help with open source project?
 
-I'm currently looking for a open source project to get my teeth stuck into. I have a lot to thank the open source community for and I like to dedicate a portion of my time each week to working in the open. I'm currently looking for a open source project to get my teeth stuck into, if you're working on something cool and need help give me a holllla
+I'm currently looking for a open source project to get my teeth stuck into. I have a lot to thank the open source community for and want to dedicate a portion of my time to working in the open.
 
 ### Hire me
 
