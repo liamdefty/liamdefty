@@ -1,16 +1,15 @@
-### Hi there 👋
+### Holla 👋
 
-<!--
-**liamdefty/liamdefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer based in the North East, UK. I have a range of experience in SaaS products, migrations, payments and publishing.
 
-Here are some ideas to get you started:
+### Need help with open source project?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a lot to thank the open source community for and I like to dedicate a portion of my time each week to working in the open. I'm currently looking for a open source project to get my teeth stuck into, if you're working on something cool and need help give me a holllla
+
+### Hire me
+
+I help organisations solve real-world problems using modern, innovative, web-based solutions. I offer services end to end, from front end to back end. Suppose your organisation needs a reliable web development resource, and you want to avoid going through the costs and hassle of hiring additional help in-house, I may be a good option for you.
+
+Limited projects & low overhead means I can focus on producing high-quality work for you.
+
+[Find out more](https://liamdefty.com/)
