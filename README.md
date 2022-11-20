@@ -1,6 +1,6 @@
 ### Hola 👋
 
-I'm a web developer based in the North East, UK. I have a range of experience in SaaS products, migrations, payments and publishing.
+I'm a web developer based in the North East, UK. I have a range of experience in SaaS products, migrations, e-commerce, payments and publishing.
 
 ### Need help with open source project?
 
